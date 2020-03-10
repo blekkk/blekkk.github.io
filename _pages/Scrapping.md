@@ -1,4 +1,4 @@
 ---
 title: "Data Scrapping"
-permalink: /scrap/
+permalink: scrapping.html
 ---
