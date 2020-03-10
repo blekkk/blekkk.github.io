@@ -1,15 +1,11 @@
 <!DOCTYPE html>
 <html>
-<!-- Import library jquary -->
 <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script>
      $(document).ready(function(){
-         //Membaca dn mengambil data dari file headline.txt
         $.getJSON('headline.json',function(data){
-            //Mengambil Line dari tiap judul
             var headline_data = '';
             var i = 1;
-            //Membuat header tabel
             headline_data += "<table border='1'><tr><td>No</td><td>Kategori</td><td>Judul Artikel</td><td>Waktu</td></tr>"
             $.each(data, function(key, value) {
                 headline_data += '<tr>';
