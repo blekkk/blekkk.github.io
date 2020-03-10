@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Data Scrapping"
-    url: "scrapping.html"
+    url: scrapping.html
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
