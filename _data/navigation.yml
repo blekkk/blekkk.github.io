@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Data Scrapping"
-    url: scrapping.html
+  #- title: "Data Scrapping"
+  #  url: scrapping.html
   - title: ".jpg"
     url: /jpg/
   # - title: "Sample Collections"
