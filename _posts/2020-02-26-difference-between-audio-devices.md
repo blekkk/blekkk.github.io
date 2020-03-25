@@ -7,7 +7,7 @@ header:
 
 # Intro
 
-I believe most of you all really likes to listen to music. Whether because you love it or just to relieve yourself for a moment or paling games, etc. There are 2 types of people when they are listening to a music, the loud speaker person and the quiet headphone/earphone/headset person. But have you though of this, what are the difference between those devices? Well, i'm sure we all know what a *speaker* is, but what about those other three? Let me explain it to you.
+I believe most of you all really likes to listen to music, whether because you love it or just to relieve yourself for a moment or paling games, etc. There are 2 types of people when they are listening to a music, the loud speaker person and the quiet headphone/earphone/headset person. But have you though of this, what are the difference between those devices? Well, i'm sure we all know what a *speaker* is, but what about those other three? Let me explain it to you.
 
 ## Headphone
 
