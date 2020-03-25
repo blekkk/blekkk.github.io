@@ -15,7 +15,7 @@ I believe most of you all really likes to listen to music, whether because you l
 
 ## Headset
 
-We will not see a lot of difference between a headphone and a headset. But there **is** a key difference between them. Yes, they have **a mic**. Basically headsets are called as they were because it is a **set** of a headphone and a mic, they are mainly used not just to listen but also to talk/communicate, this is why a lot of gaming brands are making headsets of their own with their own gimmicks like *7.1 surround sound* or something. But the thing is, a headset will not sound better than a headphone in the same class, this is because they have a mic on them and this will cause an interfence in the sound signal. So choose wisely between a headphone or a headset, example between a headset is [Sennheiser GAME ONE](https://assets.sennheiser.com/img/12865/product_detail_x2_desktop_GAME-ONE_thmbnl.jpg).
+We will not see a lot of difference between a headphone and a headset, but there **is** a key difference between them. Yes, they have **a mic**. Basically headsets are called as they were because it is a **set** of a headphone and a mic, they are mainly used not just to listen but also to talk/communicate, this is why a lot of gaming brands are making headsets of their own with their own gimmicks like *7.1 surround sound* or something. But the thing is, a headset will not sound better than a headphone in the same class, this is because they have a mic on them and this will cause an interfence in the sound signal. So choose wisely between a headphone or a headset, example between a headset is [Sennheiser GAME ONE](https://assets.sennheiser.com/img/12865/product_detail_x2_desktop_GAME-ONE_thmbnl.jpg).
 
 ## Earphone
 
