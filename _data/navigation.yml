@@ -5,7 +5,7 @@ main:
   - title: "Data Scrapping"
     url: scrapping.html
   - title: ".jpg"
-    url: /assets/images/theimage/theimage.jpg
+    url: /jpg/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
