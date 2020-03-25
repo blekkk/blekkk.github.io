@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Data Scrapping"
     url: scrapping.html
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: ".jpg"
+    url: /jpg/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
