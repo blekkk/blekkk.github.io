@@ -27,8 +27,8 @@ The last one is earphone, this is the easiest one to recognise and you will see 
 * **Headsets are a headphone but with a mic.**
 * **Earphones are a small headphone.**
 
-<object data="https://drive.google.com/file/d/10dVNNPJHaGHu23Ns70VBBeYiXpalekhR/view?usp=drivesdk" type="application/pdf" width="480px" height="720px">
-<embed src="https://drive.google.com/file/d/10dVNNPJHaGHu23Ns70VBBeYiXpalekhR/view?usp=drivesdk">
+<object data="https://drive.google.com/file/d/10dVNNPJHaGHu23Ns70VBBeYiXpalekhR/preview" type="application/pdf" width="480px" height="720px">
+<embed src="https://drive.google.com/file/d/10dVNNPJHaGHu23Ns70VBBeYiXpalekhR/preview">
 <p>No support for you, <a href="https://drive.google.com/file/d/10dVNNPJHaGHu23Ns70VBBeYiXpalekhR/view?usp=drivesdk">sry</a></p>
 </embed>
 </object>
